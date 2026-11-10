@@ -2,6 +2,8 @@
 #include <M5AtomS3.h>
 #include "images.h"
 
+//Extended from https://github.com/tomorrow56/M5Stack_Stand/
+
 M5Canvas canvas(&AtomS3.Display);
 uint16_t FORE_COLOR = TFT_BLACK;
 uint16_t BACK_COLOR = TFT_WHITE;
