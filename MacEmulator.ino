@@ -57,6 +57,7 @@ void shuffle()
 
 void myDelay(int ms) //This makes it harder to program, have to press the button. but cuts the power usage from roughly 30ma to 10ma
 {
+  //delay(ms);
   esp_sleep_enable_timer_wakeup(ms * 1000); // Time in microseconds
   esp_light_sleep_start();// 2. Enter Light Sleep
 }
