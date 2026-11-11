@@ -3,6 +3,7 @@
 
 A little desk toy based on the 1980s Mac SE. Shows a slideshow of classic Mac images, one screensaver and a game.
 
+![App Screenshot](https://github.com/mattoldred/RetroMacDeskToy/blob/main/imagesrc/photo.jpeg)
 
 ## Acknowledgements
 
